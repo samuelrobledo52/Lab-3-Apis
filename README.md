@@ -16,7 +16,7 @@ La API seleccionada es JSONPlaceholder, una API REST pública utilizada comúnme
 
 En WSL se configuraron variables de entorno para facilitar las pruebas:
 
-```bash
+
 export BASE_URL=https://jsonplaceholder.typicode.com
 export RESOURCE=posts
 export ID=1
